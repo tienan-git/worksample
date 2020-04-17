@@ -1,14 +1,3 @@
-# Linuxコマンド基礎
+### 下記のリンク先にRailsについての情報が参照できます。
 
-## このテキストのゴール
-
-## Linuxとは
-
-## Linuxコマンドとは
-
-## なぜLinuxコマンドを覚える必要があるか
-
-## 実際にLinuxコマンドを使ってみよう！
-### ls
-### mkdir
-### cd
+https://guides.rubyonrails.org/index.html
