@@ -20,5 +20,6 @@ self.<method name(parameter1, parameter2...)>
 
 
 > What does self mean?
+
 > self is the currently executing receiver, the object to which a method is applied. A function-style method call implies self as the receiver.
 
