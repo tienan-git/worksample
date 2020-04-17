@@ -15,7 +15,7 @@ Railsにおける、「単数」と「複数」の使い分けについての説
 
 Railsはいくつかの命名規則を使用して、モデルとデータベーステーブル間のマッピング関係を決めます。
 Railsはモデル「単数」を複数形にして、それぞれのデータベーステーブル「複数」を見つけます。
-例えば、「BookClub」というモデルが作成される場合は、「book_clubs」というデータベーステーブルにマッピングします。
+例えば、「BookClub」というモデルが作成された場合は、「book_clubs」というデータベーステーブルにマッピングします。
 ```
 
 詳細について[RAILS GUIDES](https://guides.rubyonrails.org/active_record_basics.html#naming-conventions)を参照:
