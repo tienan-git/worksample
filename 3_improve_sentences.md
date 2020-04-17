@@ -11,7 +11,7 @@ selfはインスタンスオブジェクト自身を指しています。クラ�
 
 ```
 selfはインスタンスオブジェクト自身を指しています。
-クラスの中でインスタンスオブジェクトのpropertyやmethodを参照する際に、下記のように指定します。
+クラスの中で定義しているインスタンスのpropertyやmethodを参照する際に、下記のように指定します。
 self.<property name>
 self.<method name(parameter1, parameter2...)>
 ```
