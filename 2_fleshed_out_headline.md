@@ -3,11 +3,11 @@
 ## After reading this guide, you will know
 
 ```
-- What is web application framework
+- What web application frameworks are and Why we use them.
 
-- What is Ruby on Rails
+- What Ruby on Rails is.
 
-- Other famous web application frameworks
+- Other famous web application frameworks.
 ```
 
 
