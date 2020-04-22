@@ -1,105 +1,30 @@
-# Getting Started with Rails
+# Ruby on Railsの入門準備
 
-## After reading this guide, you will know
+## 0. このガイドを読んだ後、Diverさんはこれらを知っているでしょう
+···
+- Webアプリケーションフレームワークとは
+- Webアプリケーションフレームワークが必要な理由
+- Webアプリケーションフレームワークで何ができますか
+- Ruby on Railsとは
+- Ruby on Railsを選択する理由
+···
 
-```
-- What web application frameworks are and Why we use them.
+## 1. Webアプリケーションフレームワーク
 
-- What Ruby on Rails is.
+### 1.1 Webアプリケーションフレームワークとは
 
-- Other famous web application frameworks.
-```
+### 1.2 Webアプリケーションフレームワークが必要な理由
 
-
-## Web application framework
-
-### Why we need frameworks, what if there are no frameworks
-```
-pass
-```
-
-### How & What frameworks do for us
-```
-pass
-```
-
-
-## Ruby on Rails - A web application framework for Ruby
-
-### Why we choose Ruby on Rails
-```
-pass
-```
-
-### How & What Ruby on Rails does for us
-```
-pass
-```
+### 1.3 Webアプリケーションフレームワークで何ができますか
+#### 1.3.1 HTTPリクエストとレスポンスを直接操作する
+#### 1.3.2 リクエストを適切なハンドラにルーティングする
+#### 1.3.3 リクエストのデータに簡単にアクセスできるようにする
+#### 1.3.4 データベースアクセスを抽象化および簡略化する
+#### 1.3.5 データのレンダリング
 
 
-## Other web application frameworks
+## 2. Ruby on Rails 
 
-### Have you heard any other web application framework
+### 2.1 Ruby on Railsとは 
 
-```
-=== PHP ===
-Zend framework
-CakePHP
-Yii
-ThinkPHP
-Symfony
-Laravel
-Kohana
-Seagull
-Drupal
-CodeIgniter
-WindFramework
-Phalcon
-FuelPHP
-```
-
-```
-=== Javascript ===
-AngularJS
-Backbone.js
-Dojo Toolkit
-Ember.js
-jQuery
-MooTools
-Prototype
-ZK
-```
-
-```
-=== Python ===
-Django
-Flask
-Pinax
-Grok
-Pylons
-TurboGears
-Web2py
-Zope
-Quixote
-PylonsHQ
-Tornado
-```
-
-```
-=== Ruby ===
-Ruby On Rails
-Sinatra
-```
-
-```
-=== JAVA ===
-Spring
-Struts
-hibernate
-Grails
-GWT
-JSF
-Tapestry
-Vaadin
-ZK
-```
+### 2.2 Ruby on Railsを選択する理由
