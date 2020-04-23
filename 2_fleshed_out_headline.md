@@ -31,3 +31,5 @@
 <h3 id="header2.1">2.1 Ruby on Railsとは</h3>
 
 <h3 id="header2.2">2.2 Ruby on Railsを選択する理由</h3>
+
+## 3. まとめ
