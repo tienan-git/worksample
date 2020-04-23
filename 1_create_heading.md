@@ -27,3 +27,5 @@
 ### 2.1 Ruby on Railsとは 
 
 ### 2.2 Ruby on Railsを選択する理由
+
+## 3. まとめ
